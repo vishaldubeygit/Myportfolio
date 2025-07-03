@@ -18,7 +18,7 @@ const projects = [
     image: "/projects/project2.png",
     tags: ["React", "Javascript", "Next.js"],
     demoUrl: "#",
-    githubUrl: "https://github.com/vishaldubeygit/Myportfolio.git",
+    githubUrl: "https://github.com/vishaldubeygit/Myportfolio",
   },
   {
     id: 3,
